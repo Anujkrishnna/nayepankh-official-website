@@ -37,4 +37,4 @@ Since this project uses vanilla web technologies, no build tools or package mana
 
 1. Clone the repository:
    ```bash
-   git clone [https://github.com/yourusername/nayepankh-foundation-web.git](https://github.com/yourusername/nayepankh-foundation-web.git)
+   git clone [https://github.com/Anujkrishnna/nayepankh-official-website/edit/main/README.md]
